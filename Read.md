@@ -1,0 +1,5 @@
+The "Vehicle Information System" is a Java program designed to demonstrate object-oriented principles and inheritance in software development. It creates a hierarchy of classes to model various aspects of vehicles. The program includes classes for Manufacture to represent vehicle manufacturers, Engine to represent engine types, and a hierarchy of vehicles that includes ICEV (Internal Combustion Engine Vehicle), BEV (Battery Electric Vehicle), and HybridV.
+
+The program showcases the relationships between manufacturers, engine types, and vehicles, allowing for the creation of instances of each type and providing a method, showCharacteristics(), to display specific vehicle characteristics. The data for these vehicles, including manufacturer and engine type, is initialized in the Main class, which then iterates through an array of vehicles and displays their characteristics.
+
+This project serves as an educational example for understanding object-oriented concepts such as class inheritance, polymorphism, and encapsulation, providing a foundation for building more complex systems related to vehicle management and information.
